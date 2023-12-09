@@ -1,4 +1,4 @@
-![](Wiring.jpg)
+![](Wiring.jpg#)
 
 the Arduino Leonardo is used as Keyboard (Requires connection to the PC)
 
